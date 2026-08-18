@@ -1,0 +1,9 @@
+{
+  "name": "test-skills",
+  "version": "1.0.0",
+  "description": "Skill Claude Code cho nhóm Test",
+  "author": {
+    "name": "Test Team",
+    "email": "doantrandt.fet@gmail.com"
+  }
+}

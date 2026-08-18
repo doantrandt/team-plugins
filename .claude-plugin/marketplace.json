@@ -1,0 +1,37 @@
+{
+  "name": "team-plugins",
+  "owner": {
+    "name": "Platform Team",
+    "email": "doantrandt.fet@gmail.com"
+  },
+  "description": "Marketplace skill Claude Code nội bộ theo nhóm chuyên môn",
+  "plugins": [
+    {
+      "name": "srs-skills",
+      "source": "./plugins/srs-skills",
+      "description": "Skill cho nhóm xây dựng SRS / requirement",
+      "version": "1.0.0",
+      "author": {
+        "name": "SRS Team"
+      }
+    },
+    {
+      "name": "dev-skills",
+      "source": "./plugins/dev-skills",
+      "description": "Skill cho nhóm Dev (review, unit test, WPF...)",
+      "version": "1.0.0",
+      "author": {
+        "name": "Dev Team"
+      }
+    },
+    {
+      "name": "test-skills",
+      "source": "./plugins/test-skills",
+      "description": "Skill cho nhóm Test",
+      "version": "1.0.0",
+      "author": {
+        "name": "Test Team"
+      }
+    }
+  ]
+}

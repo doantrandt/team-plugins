@@ -1,0 +1,9 @@
+{
+  "name": "srs-skills",
+  "version": "1.0.0",
+  "description": "Skill Claude Code cho nhóm SRS",
+  "author": {
+    "name": "SRS Team",
+    "email": "doantrandt.fet@gmail.com"
+  }
+}
